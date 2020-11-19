@@ -3,4 +3,13 @@
     <string name="action_settings">Settings</string>
     <string name="set_exchange_rate">Set Exchange Rate</string>
     <string name="main_activity_name">Convert Currency</string>
+    <string name="enter_units_of_a">Enter units of A</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="units_of_a_is">units of A is</string>
+    <string name="value">value</string>
+    <string name="units_of_b">units of B</string>
+    <string name="convert">convert</string>
+    <string name="default_ER">2.95</string>
+    <string name="enter_units_of_b">Enter units of B</string>
+    <string name="map">Map</string>
 </resources>

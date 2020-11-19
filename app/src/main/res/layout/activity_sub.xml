@@ -9,7 +9,7 @@
 
     <EditText
         android:id="@+id/editTextSubValueA"
-        android:hint="Enter units of A"
+        android:hint="@string/enter_units_of_a"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
@@ -21,12 +21,12 @@
 
     <EditText
         android:id="@+id/editTextSubValueB"
-        android:hint="Enter units of B"
+        android:hint="@string/enter_units_of_b"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
     <TextView
-        android:id="@+id/textViewUnitsOfASub"
+        android:id="@+id/textViewUnitsOfBSub"
         android:text="units of B"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
